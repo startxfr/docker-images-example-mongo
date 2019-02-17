@@ -14,3 +14,4 @@ echoVerbose "Sample mongo application usage"
 echoVerbose "+====================================================="
 
 exec /bin/sx-mongo usageS2i
+exit 0;
